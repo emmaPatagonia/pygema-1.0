@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>seismic_events_automatic_last_day.kml</name>
+   <Style id='normalPlacemark'>
+     <IconStyle>
+       <scale>1.4</scale>
+       <Icon>
+         <href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+       </Icon>
+     </IconStyle>
+   </Style>
+   <StyleMap id='exampleStyleMap'>
+     <Pair>
+       <key>normal</key>       <styleUrl>#normalPlacemark</styleUrl>
+     </Pair>
+   </StyleMap>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 07:44:27.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.538
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.3281
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   143.997
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.538,-38.3281,143.997</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 08:22:44.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.22
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.8687
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   83.9975
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.22,-38.8687,83.9975</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 09:20:36.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.9969
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.4271
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   63.9975
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.9969,-37.4271,63.9975</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 09:34:46.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.538
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.3281
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   143.997
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.538,-38.3281,143.997</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 11:32:28.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.2191
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -39.229
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   83.9975
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.2191,-39.229,83.9975</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 11:32:30.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.2191
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -39.229
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   63.9975
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.2191,-39.229,63.9975</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-09 12:04:13.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.22
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.8687
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   103.997
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   automatic
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.22,-38.8687,103.997</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>

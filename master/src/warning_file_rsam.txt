@@ -1,0 +1,8 @@
+# station | lower_corner | upper_corner | yellow_warning | orange_warning
+   COPA          0            150              40              80
+   COP2          0            200              90              110
+   CALL          0            2000             800             1000
+   MAYA          0            500             100             200
+   TOL1          0            200              10              20
+   LONQ          0            2000             750             1000
+   MANZ          0            1500             500             1000

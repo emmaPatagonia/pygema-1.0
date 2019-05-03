@@ -1,0 +1,2 @@
+#lon lat depth mrr mtt mpp mrt mrp mtp iexp name
+-71.40 -38.04 18 0.16 2.15 -2.32 0.17 -0.01 1.16 24 X Y 200612311455A  

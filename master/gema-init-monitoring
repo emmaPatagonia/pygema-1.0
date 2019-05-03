@@ -1,0 +1,13 @@
+#! /bin/bash
+
+#python connect2gema.py
+nohup python compute_rsam_ssam.py &
+nohup python do_autoloc.py &
+nohup python do_autopick.py &
+nohup python export_helicorder.py &
+nohup python export_kml.py &
+nohup python export_triggers.py &
+nohup python export_map_seismic_events_catalogue.py &
+nohup python export_seismicity_statistics.py &
+
+ps aux | grep python
